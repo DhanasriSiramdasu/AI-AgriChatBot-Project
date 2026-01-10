@@ -49,7 +49,6 @@ AI-Agri-ChatBot/
 
 1. **Clone the repository:**
 
-```bash
 git clone https://github.com/DhanasriSiramdasu/AI-Agri-ChatBot.git
 cd AI-Agri-ChatBot
 
