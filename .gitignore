@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+env/
+
+# Flask
+instance/
+
+# Database
+*.db
+
+# Uploads
+uploads/
+
+# Knowledge base runtime files
+*.csv
+kb.json
+
+# IDE
+.vscode/
+.idea/
