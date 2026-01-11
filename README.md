@@ -16,6 +16,8 @@
 
 ## 📸 Screenshots
 
+<img width="1918" height="1085" alt="image" src="https://github.com/user-attachments/assets/5c9af6d7-5afe-4807-85a8-f05fd26ccb96" />
+
 <img width="1913" height="1086" alt="image" src="https://github.com/user-attachments/assets/769ca98b-d6e7-4132-ae60-0e66af3d6fff" />
 
 <img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/bcaededc-2b97-43cd-9105-4a70839e4d1b" />
