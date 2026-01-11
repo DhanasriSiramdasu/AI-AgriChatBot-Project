@@ -25,17 +25,17 @@
 ---
 📂 Project Structure</br>
 AI-Agri-ChatBot/<br>
-├── app.py  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             # Main Flask application<br>
-├── database.py   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    # Database models and initialization<br>
-├── chatbot_model.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   # Chatbot logic & message processing<br>
-├── requirements.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    # Python dependencies<br>
-├── Dockerfile  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            # Docker configuration<br>
-├── docker-compose.yml &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Docker Compose (optional)<br>
-├── templates/  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            # HTML templates<br>
-├── static/  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               # CSS, JavaScript, images<br>
-├── utils/   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               # Helper utilities (safety, sanitization)<br>
-├── .gitignore   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          # Git ignored files<br>
-├── README.md   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         # Project documentation<br>
+├── app.py  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             # Main Flask application<br>
+├── database.py   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    # Database models and initialization<br>
+├── chatbot_model.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   # Chatbot logic & message processing<br>
+├── requirements.txt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    # Python dependencies<br>
+├── Dockerfile  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            # Docker configuration<br>
+├── docker-compose.yml &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Docker Compose (optional)<br>
+├── templates/  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            # HTML templates<br>
+├── static/  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               # CSS, JavaScript, images<br>
+├── utils/   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               # Helper utilities (safety, sanitization)<br>
+├── .gitignore   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          # Git ignored files<br>
+├── README.md   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s         # Project documentation<br>
 └── kb.sample.json
 
 
