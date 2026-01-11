@@ -16,13 +16,13 @@
 
 ## 📸 Screenshots
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/5c9af6d7-5afe-4807-85a8-f05fd26ccb96" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img width="400" height="500" alt="Home" src="https://github.com/user-attachments/assets/5c9af6d7-5afe-4807-85a8-f05fd26ccb96" />
+  <img width="500" height="400" alt="Notes" src="https://github.com/user-attachments/assets/a4772b88-fe28-4988-8dfd-624e54c68869" />
+  <img width="500" height="400" alt="Profile" src="https://github.com/user-attachments/assets/769ca98b-d6e7-4132-ae60-0e66af3d6fff" />
+  <img width="500" height="400" alt="Another" src="https://github.com/user-attachments/assets/bcaededc-2b97-43cd-9105-4a70839e4d1b" />
+</div>
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a4772b88-fe28-4988-8dfd-624e54c68869" />
-
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/769ca98b-d6e7-4132-ae60-0e66af3d6fff" />
-
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/bcaededc-2b97-43cd-9105-4a70839e4d1b" />
 
 
 
