@@ -132,8 +132,8 @@ Each entry format:
 
 &nbsp; MIT License – free to use and modify for learning or personal projects.
 
-👩‍🎓 ** Author ** Dhanasri Siramdasu
+👩‍🎓 **Author:** Dhanasri Siramdasu
 
-💻 ** GitHub ** https://github.com/DhanasriSiramdasu
+💻 **GitHub:** https://github.com/DhanasriSiramdasu
 
-🔗 ** LinkedIn ** https://www.linkedin.com/in/dhanasrisiramdasu/
+🔗 **LinkedIn:** https://www.linkedin.com/in/dhanasrisiramdasu/
