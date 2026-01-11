@@ -49,12 +49,13 @@ AI-Agri-ChatBot/<br>
 
 ## ⚙️ Setup Instructions
 
-1. **Clone the repository:**
+### 1. ** Clone the repository:**
 
-    git clone https://github.com/DhanasriSiramdasu/AI-Agri-ChatBot.git</br>
-    cd AI-Agri-ChatBot
+&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/DhanasriSiramdasu/AI-Agri-ChatBot.git</br>
+    
+&nbsp;&nbsp;&nbsp;&nbsp;cd AI-Agri-ChatBot
 
-2. **Create a virtual environment (recommended):**
+### 2. **Create a virtual environment (recommended):**
 
       python -m venv venv
       # Windows
@@ -62,15 +63,15 @@ AI-Agri-ChatBot/<br>
       # macOS/Linux
       source venv/bin/activate
 
-3. **Install dependencies:**
+### 3. **Install dependencies:**
 
   pip install -r requirements.txt
 
-4. **Run the app locally:**
+### 4. **Run the app locally:**
 
   python app.py
 
-5. **Access in browser:**
+### 5. **Access in browser:**
 
   http://127.0.0.1:5000
 
