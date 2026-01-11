@@ -58,9 +58,9 @@ AI-Agri-ChatBot/<br>
 ### 2. **Create a virtual environment (recommended):**
 
 &nbsp;&nbsp;&nbsp;&nbsp;python -m venv venv</br>
-&nbsp;&nbsp;&nbsp;&nbsp;### Windows</br>
+&nbsp;&nbsp;&nbsp;&nbsp;<u>Windows</u></br>
 &nbsp;&nbsp;&nbsp;&nbsp;venv\Scripts\activate</br>
-&nbsp;&nbsp;&nbsp;&nbsp;### macOS/Linux</br>
+&nbsp;&nbsp;&nbsp;&nbsp;<u>macOS</u>/Linux</br>
 &nbsp;&nbsp;&nbsp;&nbsp;source venv/bin/activate</br>
 
 ### 3. **Install dependencies:**
@@ -136,6 +136,6 @@ Each entry format:
 
 Dhanasri Siramdasu
 
-GitHub: DhanasriSiramdasu
+GitHub: https://github.com/DhanasriSiramdasu
 
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/dhanasrisiramdasu/
