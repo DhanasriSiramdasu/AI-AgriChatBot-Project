@@ -14,6 +14,14 @@
 
 ---
 
+## 📸 Screenshots
+
+<img width="1913" height="1086" alt="image" src="https://github.com/user-attachments/assets/769ca98b-d6e7-4132-ae60-0e66af3d6fff" />
+
+<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/bcaededc-2b97-43cd-9105-4a70839e4d1b" />
+
+
+
 ## 💻 Tech Stack
 
 - **Backend**: Python, Flask, Flask-Login  
