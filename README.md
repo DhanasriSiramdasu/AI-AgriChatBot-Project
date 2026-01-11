@@ -57,23 +57,23 @@ AI-Agri-ChatBot/<br>
 
 ### 2. **Create a virtual environment (recommended):**
 
-      python -m venv venv
-      # Windows
-      venv\Scripts\activate
-      # macOS/Linux
-      source venv/bin/activate
+&nbsp;&nbsp;&nbsp;&nbsp;python -m venv venv
+&nbsp;&nbsp;&nbsp;&nbsp;#### Windows
+&nbsp;&nbsp;&nbsp;&nbsp;venv\Scripts\activate
+&nbsp;&nbsp;&nbsp;&nbsp;#### macOS/Linux
+&nbsp;&nbsp;&nbsp;&nbsp;source venv/bin/activate
 
 ### 3. **Install dependencies:**
 
-  pip install -r requirements.txt
+&nbsp;&nbsp;&nbsp;&nbsp;pip install -r requirements.txt
 
 ### 4. **Run the app locally:**
 
-  python app.py
+&nbsp;&nbsp;&nbsp;&nbsp;python app.py
 
 ### 5. **Access in browser:**
 
-  http://127.0.0.1:5000
+&nbsp;&nbsp;&nbsp;&nbsp;http://127.0.0.1:5000
 
 ## 🛠 Usage
 
