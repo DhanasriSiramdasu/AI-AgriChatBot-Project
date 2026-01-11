@@ -56,11 +56,11 @@ AI-Agri-ChatBot/<br>
 
 2. Create a virtual environment (recommended):
 
-  python -m venv venv
-  # Windows
-  venv\Scripts\activate
-  # macOS/Linux
-  source venv/bin/activate
+      python -m venv venv
+      # Windows
+      venv\Scripts\activate
+      # macOS/Linux
+      source venv/bin/activate
 
 3. Install dependencies:
 
