@@ -57,11 +57,11 @@ AI-Agri-ChatBot/<br>
 
 ### 2. **Create a virtual environment (recommended):**
 
-&nbsp;&nbsp;&nbsp;&nbsp;python -m venv venv
-&nbsp;&nbsp;&nbsp;&nbsp;#### Windows
-&nbsp;&nbsp;&nbsp;&nbsp;venv\Scripts\activate
-&nbsp;&nbsp;&nbsp;&nbsp;#### macOS/Linux
-&nbsp;&nbsp;&nbsp;&nbsp;source venv/bin/activate
+&nbsp;&nbsp;&nbsp;&nbsp;python -m venv venv</br>
+&nbsp;&nbsp;&nbsp;&nbsp;### Windows</br>
+&nbsp;&nbsp;&nbsp;&nbsp;venv\Scripts\activate</br>
+&nbsp;&nbsp;&nbsp;&nbsp;### macOS/Linux</br>
+&nbsp;&nbsp;&nbsp;&nbsp;source venv/bin/activate</br>
 
 ### 3. **Install dependencies:**
 
@@ -112,10 +112,10 @@ AI-Agri-ChatBot/<br>
 Each entry format:
 
 {
-  "keywords": ["fertilizer", "wheat"],
-  "answer_en": "Use NPK fertilizer in March...",
-  "answer_hi": "मार्च में एनपीके उर्वरक का उपयोग करें...",
-  "answer_ta": "மார்ச் மாதத்தில் NPK உரம் பயன்படுத்தவும்..."
+  "keywords": ["fertilizer", "wheat"],</br>
+  "answer_en": "Use NPK fertilizer in March...",</br>
+  "answer_hi": "मार्च में एनपीके उर्वरक का उपयोग करें...",</br>
+  "answer_ta": "மார்ச் மாதத்தில் NPK உரம் பயன்படுத்தவும்..."</br>
 }
 
 ## 🌐 Future Enhancements
