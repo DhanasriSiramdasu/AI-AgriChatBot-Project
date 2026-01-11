@@ -1,4 +1,4 @@
-# AI-Agri-ChatBot
+# AI-Agri-ChatBot 🌱🤖
 
 **AI-Agri-ChatBot** is an AI-powered agricultural assistant built with **Flask**. It helps farmers with crop guidance, pest control, fertilizers, and plant health via chat and leaf image analysis.
 
@@ -132,10 +132,8 @@ Each entry format:
 
 &nbsp; MIT License – free to use and modify for learning or personal projects.
 
-## 👤 Author
+👩‍🎓 ** Author ** Dhanasri Siramdasu
 
-Dhanasri Siramdasu
+💻 ** GitHub ** https://github.com/DhanasriSiramdasu
 
-GitHub: https://github.com/DhanasriSiramdasu
-
-LinkedIn: https://www.linkedin.com/in/dhanasrisiramdasu/
+🔗 ** LinkedIn ** https://www.linkedin.com/in/dhanasrisiramdasu/
