@@ -51,13 +51,90 @@ AI-Agri-ChatBot/<br>
 
 1. **Clone the repository:**
 
-git clone https://github.com/DhanasriSiramdasu/AI-Agri-ChatBot.git
-cd AI-Agri-ChatBot
+    git clone https://github.com/DhanasriSiramdasu/AI-Agri-ChatBot.git
+    cd AI-Agri-ChatBot
 
-2.Create a virtual environment (recommended):
+2. Create a virtual environment (recommended):
 
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
+  python -m venv venv
+  # Windows
+  venv\Scripts\activate
+  # macOS/Linux
+  source venv/bin/activate
+
+3. Install dependencies:
+
+  pip install -r requirements.txt
+
+4. Run the app locally:
+
+  python app.py
+
+5. Access in browser:
+
+  http://127.0.0.1:5000
+
+🛠 Usage
+
+Register/Login as a user
+
+Chat in the chatbot interface
+
+Admin Dashboard (admin role only):
+
+View recent users
+
+Edit or upload knowledge base
+
+Clear chat history
+
+Upload leaf images to check plant health
+
+📷 Leaf Image Analysis
+
+The chatbot can analyze leaf images using basic color heuristics:
+
+Healthy → Mostly green
+
+Partial damage / early symptoms → Moderate green
+
+Severe discoloration / disease → Low green
+
+Optional: Install Pillow (pip install Pillow) for local image processing.
+
+📄 Knowledge Base
+
+Stored in kb.sample.json
+
+Use JSON or CSV to add new questions/answers
+
+Each entry format:
+
+{
+  "keywords": ["fertilizer", "wheat"],
+  "answer_en": "Use NPK fertilizer in March...",
+  "answer_hi": "मार्च में एनपीके उर्वरक का उपयोग करें...",
+  "answer_ta": "மார்ச் மாதத்தில் NPK உரம் பயன்படுத்தவும்..."
+}
+
+🌐 Future Enhancements
+
+Integrate ML model for crop disease detection
+
+Support more languages
+
+Deploy cloud version for remote access
+
+Improve chatbot NLP using pre-trained models
+
+📌 License
+
+MIT License – free to use and modify for learning or personal projects.
+
+👤 Author
+
+Dhanasri Siramdasu
+
+GitHub: DhanasriSiramdasu
+
+LinkedIn: (add your link)
