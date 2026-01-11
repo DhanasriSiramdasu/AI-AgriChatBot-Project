@@ -24,7 +24,6 @@
 
 ---
 
-## 📂 Project Structure
 AI-Agri-ChatBot/
 ├── app.py                 # Main Flask application
 ├── database.py            # Database models and initialization
@@ -38,6 +37,7 @@ AI-Agri-ChatBot/
 ├── .gitignore             # Git ignored files
 ├── README.md              # Project documentation
 └── kb.sample.json         # Sample knowledge base
+
 
 
 
