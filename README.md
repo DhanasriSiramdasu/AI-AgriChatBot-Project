@@ -25,20 +25,20 @@
 ---
 
 ## 📂 Project Structure
-
 AI-Agri-ChatBot/
-├── app.py # Main Flask app
-├── database.py # Database models and initialization
-├── chatbot_model.py # Chatbot logic & message processing
-├── requirements.txt # Python dependencies
-├── Dockerfile # Docker configuration
-├── docker-compose.yml # Docker compose (optional)
-├── templates/ # HTML templates
-├── static/ # CSS, JS, images
-├── utils/ # Helper scripts (safety, sanitization)
-├── .gitignore # Ignored files
-├── README.md # Project documentation
-└── kb.sample.json # Sample knowledge base
+├── app.py                 # Main Flask application
+├── database.py            # Database models and initialization
+├── chatbot_model.py       # Chatbot logic & message processing
+├── requirements.txt       # Python dependencies
+├── Dockerfile             # Docker configuration
+├── docker-compose.yml     # Docker Compose (optional)
+├── templates/             # HTML templates
+├── static/                # CSS, JavaScript, images
+├── utils/                 # Helper utilities (safety, sanitization)
+├── .gitignore             # Git ignored files
+├── README.md              # Project documentation
+└── kb.sample.json         # Sample knowledge base
+
 
 
 > **Note:** `instance/`, `uploads/`, `.db`, and full KB files are excluded for security and cleanliness. Use `kb.sample.json` to create your own knowledge base.
