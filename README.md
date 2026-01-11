@@ -24,19 +24,19 @@
 
 ---
 
-AI-Agri-ChatBot/
-├── app.py                 # Main Flask application
-├── database.py            # Database models and initialization
-├── chatbot_model.py       # Chatbot logic & message processing
-├── requirements.txt       # Python dependencies
-├── Dockerfile             # Docker configuration
-├── docker-compose.yml     # Docker Compose (optional)
-├── templates/             # HTML templates
-├── static/                # CSS, JavaScript, images
-├── utils/                 # Helper utilities (safety, sanitization)
-├── .gitignore             # Git ignored files
-├── README.md              # Project documentation
-└── kb.sample.json         # Sample knowledge base
+AI-Agri-ChatBot/<br>
+├── app.py                 # Main Flask application<br>
+├── database.py            # Database models and initialization<br>
+├── chatbot_model.py     # Chatbot logic & message processing<br>
+├── requirements.txt     # Python dependencies<br>
+├── Dockerfile              # Docker configuration<br>
+├── docker-compose.yml  # Docker Compose (optional)<br>
+├── templates/              # HTML templates<br>
+├── static/                 # CSS, JavaScript, images<br>
+├── utils/                  # Helper utilities (safety, sanitization)<br>
+├── .gitignore             # Git ignored files<br>
+├── README.md            # Project documentation<br>
+└── kb.sample.json
 
 
 
