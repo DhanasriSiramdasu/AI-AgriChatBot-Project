@@ -23,12 +23,12 @@
 - **Deployment**: Docker (optional)  
 
 ---
-
+📂 Project Structure</br>
 AI-Agri-ChatBot/<br>
-├── app.py                 # Main Flask application<br>
-├── database.py            # Database models and initialization<br>
-├── chatbot_model.py     # Chatbot logic & message processing<br>
-├── requirements.txt     # Python dependencies<br>
+├── app.py  &nbsp;&nbsp;               # Main Flask application<br>
+├── database.py   &nbsp;&nbsp;         # Database models and initialization<br>
+├── chatbot_model.py &nbsp;&nbsp;    # Chatbot logic & message processing<br>
+├── requirements.txt &nbsp;&nbsp;&nbsp;    # Python dependencies<br>
 ├── Dockerfile              # Docker configuration<br>
 ├── docker-compose.yml  # Docker Compose (optional)<br>
 ├── templates/              # HTML templates<br>
