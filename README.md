@@ -31,8 +31,7 @@
 - **Backend**: Python, Flask, Flask-Login  
 - **Database**: SQLite  
 - **Frontend**: HTML, CSS, Bootstrap  
-- **Image Processing**: Pillow  
-- **Deployment**: Docker (optional)  
+- **Image Processing**: Pillow    
 
 ---
 📂 Project Structure</br></br>
