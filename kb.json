@@ -1,0 +1,506 @@
+[
+  {
+    "keywords": [
+      "hi",
+      "hello",
+      "hey",
+      "good morning",
+      "good evening",
+      "வணக்கம்",
+      "ஹாய்",
+      "ஹலோ",
+      "ஹெய்",
+      "காலை வணக்கம்",
+      "மாலை வணக்கம்",
+      "नमस्ते",
+      "हाय",
+      "नमस्कार",
+      "शुभ प्रभात"
+    ],
+    "answer_en": "Hi there! 👋 I'm your friendly AgriBot 🌾 here to help with all your farming questions. What crop or topic would you like to talk about today?",
+    "answer_ta": "வணக்கம்! 👋 நான் உங்கள் நட்பான வேளாண்மை உதவியாளர் 🌾. இன்று எந்த பயிர் அல்லது விவசாய விஷயத்தை பற்றி பேச விரும்புகிறீர்கள்?",
+    "answer_hi": "नमस्ते! 👋 मैं आपका दोस्ताना कृषि सहायक 🌾 हूँ। आप आज किस फसल या खेती विषय पर बात करना चाहते हैं?"
+  },
+  {
+    "keywords": [
+      "how are you",
+      "நீங்கள் எப்படி இருக்கிறீர்கள்",
+      "आप कैसे हैं"
+    ],
+    "answer_en": "I'm doing great, thanks for asking! 😊 Always happy to talk about farming and help you grow better crops.",
+    "answer_ta": "நான் நன்றாக இருக்கிறேன், கேட்டதற்கு நன்றி! 😊 விவசாயம் பற்றி பேசுவதும் உங்களுக்கு உதவுவதும் எனக்கு மகிழ்ச்சி!",
+    "answer_hi": "मैं बहुत अच्छा हूँ, पूछने के लिए धन्यवाद! 😊 खेती पर बात करना और आपकी मदद करना अच्छा लगता है।"
+  },
+  {
+    "keywords": [
+      "thank you",
+      "thanks",
+      "நன்றி",
+      "धन्यवाद"
+    ],
+    "answer_en": "You're most welcome! 🙏 I'm happy to help you anytime with your farm queries.",
+    "answer_ta": "உங்கள் நன்றி! 🙏 உங்களுடைய வேளாண்மை கேள்விகளுக்கு எப்போதும் உதவ தயாராக இருக்கிறேன்.",
+    "answer_hi": "आपका स्वागत है! 🙏 मैं हमेशा आपकी खेती से जुड़ी मदद करने के लिए तैयार हूँ।"
+  },
+  {
+    "keywords": [
+      "bye",
+      "goodbye",
+      "பிரியாவிடை",
+      "अलविदा"
+    ],
+    "answer_en": "Goodbye! 👋 Take care and may your crops stay healthy and green! 🌱",
+    "answer_ta": "பிரியாவிடை! 👋 உங்கள் பயிர்கள் பசுமையாகவும் ஆரோக்கியமாகவும் இருக்கட்டும்! 🌱",
+    "answer_hi": "अलविदा! 👋 आपकी फसलें हमेशा हरी-भरी और स्वस्थ रहें! 🌱"
+  },
+  {
+    "keywords": [
+      "best soil for cotton",
+      "cotton soil type",
+      "cotton soil"
+    ],
+    "answer_en": "Cotton loves deep, well-drained sandy loam soil rich in organic matter. Ensure moderate moisture and avoid waterlogging for better yield.",
+    "answer_ta": "பருத்திக்கு ஆழமான, நல்ல வடிகால் வசதியுள்ள மணல் கலந்த மண் சிறந்தது. நீர் நின்று விடாமல் கவனியுங்கள்.",
+    "answer_hi": "कपास के लिए गहरी, उपजाऊ और अच्छी जल निकासी वाली दोमट मिट्टी सबसे अच्छी होती है। जलभराव से बचें।"
+  },
+  {
+    "keywords": [
+      "best soil for paddy",
+      "paddy soil",
+      "rice soil"
+    ],
+    "answer_en": "Paddy thrives in clayey or loamy soils that retain water. Levelled fields help maintain standing water for better grain filling.",
+    "answer_ta": "நெல் களிமண் அல்லது லோமி மண்ணில் சிறப்பாக வளரும். சமமான நிலம் நீர் தக்க வைக்க உதவும்.",
+    "answer_hi": "धान चिकनी या दोमट मिट्टी में अच्छा उगता है जो पानी रोक सके। समतल खेत जरूरी हैं।"
+  },
+  {
+    "keywords": [
+      "sugarcane fertilizer",
+      "fertilizer for sugarcane",
+      "sugarcane nutrition"
+    ],
+    "answer_en": "Sugarcane needs heavy feeding: about 340 kg N, 170 kg P₂O₅ and 170 kg K₂O per hectare. Apply nitrogen in 3 splits and ensure regular irrigation.",
+    "answer_ta": "கரும்புக்கு அதிக ஊட்டச்சத்து தேவை. நைட்ரஜன் 3 பிரிவாக கொடுக்கவும் மற்றும் பாசனம் முறையாக செய்யவும்.",
+    "answer_hi": "गन्ने को अधिक पोषण की जरूरत होती है। नाइट्रोजन को तीन भागों में दें और नियमित सिंचाई करें।"
+  },
+  {
+    "keywords": [
+      "banana irrigation",
+      "banana water",
+      "banana watering schedule"
+    ],
+    "answer_en": "Banana needs frequent irrigation every 3–4 days in summer and 7 days in winter. Drip irrigation gives best results and saves water.",
+    "answer_ta": "வாழைக்கு கோடையில் 3–4 நாட்களுக்கு ஒருமுறை, குளிர்காலத்தில் 7 நாட்களுக்கு ஒருமுறை நீர் கொடுக்கவும். டிரிப் பாசனம் சிறந்தது.",
+    "answer_hi": "केले में गर्मी में हर 3–4 दिन और सर्दी में 7 दिन पर सिंचाई करें। ड्रिप सिंचाई सर्वोत्तम है।"
+  },
+  {
+    "keywords": [
+      "groundnut pests",
+      "peanut pest",
+      "groundnut disease"
+    ],
+    "answer_en": "Groundnut faces leaf spot and rust. Use Trichoderma biofungicide, maintain crop rotation and avoid overhead irrigation.",
+    "answer_ta": "வேர்க்கடலையில் இலைக்கறை மற்றும் துரு நோய் ஏற்படும். பயிர் மாற்றம் செய்து, டிரைகோடெர்மா பயன்படுத்தவும்.",
+    "answer_hi": "मूंगफली में पत्ती धब्बा और जंग आम हैं। ट्राइकोडर्मा का उपयोग करें और फसल चक्रीकरण अपनाएँ।"
+  },
+  {
+    "keywords": [
+      "tomato pests",
+      "pests of tomato",
+      "tomato pest management"
+    ],
+    "answer_en": "Tomato fruit borer, whitefly and leaf miner cause major damage. Use neem oil, pheromone traps and avoid excessive nitrogen fertilizer.",
+    "answer_ta": "தக்காளி பழச்சிவப்பு, வெள்ளை ஈ மற்றும் இலை சுருங்கல் பூச்சிகள் பாதிக்கின்றன. நீம் எண்ணெய் மற்றும் பெரோமோன் காப்புகள் பயன்படுத்தவும்.",
+    "answer_hi": "टमाटर में फल छेदक और सफेद मक्खी से नुकसान होता है। नीम तेल और फेरोमोन ट्रैप लगाएँ।"
+  },
+  {
+    "keywords": [
+      "chilli disease",
+      "chilli pest",
+      "chili leaf curl"
+    ],
+    "answer_en": "Chilli leaf curl and thrips are common. Remove infected plants, use yellow sticky traps and spray neem-based biopesticide.",
+    "answer_ta": "மிளகாயில் இலை சுருக்கம் மற்றும் த்ரிப்ஸ் பாதிப்பு உண்டு. பாதிக்கப்பட்ட செடிகளை அகற்றி நீம் அடிப்படையிலான பூச்சிக்கொல்லி தெளிக்கவும்.",
+    "answer_hi": "मिर्च में पत्ती मुरझाना और थ्रिप्स आम हैं। संक्रमित पौधे हटाएँ और नीम आधारित कीटनाशक छिड़कें।"
+  },
+  {
+    "keywords": [
+      "irrigation for cotton",
+      "cotton irrigation",
+      "when to water cotton"
+    ],
+    "answer_en": "Irrigate cotton at 7–10 day intervals. Use soil-moisture sensors if possible 🌱. Avoid water stress during flowering and boll formation.",
+    "answer_ta": "பருத்திக்கு 7–10 நாட்களுக்கு ஒருமுறை பாசனம் செய்யுங்கள். மலர்ச்சிக் காலத்தில் நீர் பற்றாக்குறை வரக்கூடாது.",
+    "answer_hi": "कपास में 7–10 दिन के अंतराल पर सिंचाई करें। फूल आने और बॉल बनने के समय पानी की कमी न होने दें।"
+  },
+  {
+    "keywords": [
+      "weather",
+      "rainfall",
+      "மழை",
+      "बारिश"
+    ],
+    "answer_en": "Check today’s local weather before irrigating or spraying pesticides 🌦️. Avoid spraying during high winds or rainfall.",
+    "answer_ta": "இன்று பாசனம் அல்லது பூச்சிக்கொல்லி தெளிப்பதற்கு முன் வானிலை அறிக்கை பார்க்கவும் 🌦️. மழை நேரத்தில் தெளிக்க வேண்டாம்.",
+    "answer_hi": "आज सिंचाई या छिड़काव से पहले मौसम देखें 🌦️। बारिश या तेज हवा में छिड़काव न करें।"
+  },
+  {
+    "keywords": [
+      "organic farming",
+      "natural farming",
+      "இயற்கை விவசாயம்",
+      "जैविक खेती"
+    ],
+    "answer_en": "Organic farming builds healthy soil and reduces chemical use 🌿. Apply compost, neem cake, and use biofertilizers regularly.",
+    "answer_ta": "இயற்கை விவசாயம் மண் ஆரோக்கியத்தை மேம்படுத்தி ரசாயன பயன்பாட்டை குறைக்கிறது 🌿. கம்போஸ்ட் மற்றும் நீம் கேக் சேர்க்கவும்.",
+    "answer_hi": "जैविक खेती मिट्टी को स्वस्थ बनाती है 🌿। नीम खली और जैव उर्वरकों का प्रयोग करें।"
+  },
+  {
+    "keywords": [
+      "weed control",
+      "remove weeds",
+      "weed management"
+    ],
+    "answer_en": "Weeds compete for nutrients. Remove them early by hand weeding or mulching. Avoid herbicide overuse.",
+    "answer_ta": "களைகள் உரங்களுக்காக போட்டி இடும். கையால் அகற்றி மல்சிங் செய்யவும். அதிக அளவு களையழிப்பு மருந்து பயன்படுத்த வேண்டாம்.",
+    "answer_hi": "खरपतवार पोषक तत्वों के लिए प्रतिस्पर्धा करते हैं। समय पर हाथ से निकालें या मल्चिंग करें।"
+  },
+  {
+    "keywords": [
+      "soil testing",
+      "benefits of soil test",
+      "when to test soil"
+    ],
+    "answer_en": "Test your soil every 2 years to understand nutrient status 🧪. This helps apply the right fertilizers for better yield.",
+    "answer_ta": "ஒவ்வொரு 2 ஆண்டுகளுக்கும் மண் சோதனை செய்யுங்கள் 🧪. இது சரியான உர அளவைத் தீர்மானிக்க உதவும்.",
+    "answer_hi": "हर 2 साल में मृदा परीक्षण करें 🧪। इससे सही उर्वरक मात्रा तय करने में मदद मिलती है।"
+  },
+  {
+    "keywords": [
+      "default",
+      "fallback"
+    ],
+    "answer_en": "Hmm 🤔 I’m not sure about that yet. Try asking about a crop, soil, pest or fertilizer!",
+    "answer_ta": "ஹூம் 🤔 அதைப்பற்றி எனக்கு தகவல் இல்லை. ஒரு பயிர், மண் அல்லது உரம் குறித்து கேளுங்கள்!",
+    "answer_hi": "हम्म 🤔 इस बारे में मुझे जानकारी नहीं है। किसी फसल, मिट्टी या उर्वरक के बारे में पूछें!"
+  },
+  {
+    "keywords": [
+      "tomato weather",
+      "weather for tomato",
+      "best weather for tomato",
+      "tomato climate",
+      "which weather is best for tomato",
+      "ideal temperature for tomato"
+    ],
+    "answer_en": "Tomatoes love warm and sunny weather 🌞. The best temperature is between 25°C to 30°C during the day and 18°C to 20°C at night. Avoid frost and heavy rains.",
+    "answer_ta": "தக்காளி சாகுபடிக்கு 25°C முதல் 30°C வரை பகல் வெப்பநிலை, 18°C முதல் 20°C வரை இரவு வெப்பநிலை சிறந்தது 🌞. பனி மற்றும் மழையை தவிர்க்கவும்.",
+    "answer_hi": "टमाटर को गर्म और धूप वाला मौसम पसंद है 🌞। दिन में 25°C से 30°C और रात में 18°C से 20°C तापमान सबसे अच्छा रहता है। ठंढ और भारी बारिश से बचें।"
+  },
+
+  {
+    "keywords": ["wheat fertilizer", "best fertilizer for wheat"],
+    "answer_en": "The best fertilizer for wheat is one high in nitrogen, such as urea or DAP. Apply 120 kg N, 60 kg P2O5, and 40 kg K2O per hectare in split doses.",
+    "answer_hi": "गेहूं के लिए सबसे अच्छा उर्वरक नाइट्रोजन से भरपूर होता है जैसे यूरिया या डीएपी। प्रति हेक्टेयर 120 किग्रा N, 60 किग्रा P2O5, और 40 किग्रा K2O विभाजित मात्रा में दें।"
+  },
+  {
+    "keywords": [],
+    "answer_en": "Plant tomatoes at the start of the warm season: in spring for temperate regions and just after the last frost. Use seedlings and transplant when they have 4–6 true leaves; maintain warm days (25–30°C) for best growth.",
+    "answer_hi": "टमाटर की बुवाई गर्म मौसम की शुरुआत में करें: समशीतोष्ण क्षेत्रों में वसंत में और अंतिम ठंढ के बाद रोपण करें। 4–6 असली पत्तियों वाले पौधों को प्रत्यारोपित करें; दिन का तापमान 25–30°C रखें।",
+    "answer_ta": "தக்காளி விதைப்பதை வெப்ப பருவ தொடக்கத்தில் செய்யுங்கள்: மிதமான பகுதிகளில் வसந்தத்தில், கடைசி பனியிலிருந்து பிறகு விதைக்க வேண்டும். 4–6 உண்மையான இலைகள் இருக்கும் போது மாற்று நட்டு; 25–30°C பகல் வெப்பநிலையை பராமரிக்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Tomatoes prefer warm, sunny days (25–30°C) and cool nights (18–20°C). Avoid frost and prolonged heavy rains which can cause blossom drop and disease.",
+    "answer_hi": "टमाटर को 25–30°C दिन और 18–20°C रात के तापमान पसंद हैं। ओलावृष्टि और लगातार भारी बारिश से बचें।",
+    "answer_ta": "தக்காளிக்கு 25–30°C பகல் வெப்பநிலை மற்றும் 18–20°C இரவு வெப்பநிலை பிடிக்கும். பனி மற்றும் நீண்ட மழையை தவிர்க்கவும்; இது மலர்ச்சி சிதைந்தல் மற்றும் நோய்களை உண்டாக்கும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Irrigate tomatoes regularly to keep soil evenly moist; avoid waterlogging. Use drip irrigation for water efficiency and water at the base to reduce foliar diseases.",
+    "answer_hi": "टमाटर को नियमित रूप से सींचें ताकि मिट्टी समान रूप से नम रहे; जलभराव न होने दें। ड्रिप सिंचाई उपयोगी है और पत्तियों पर पानी न डालें।",
+    "answer_ta": "தக்காளிக்கு மண் சமமாக மூடராமல் நீர்ப்பாசனம் செய்யுங்கள்; நீர் நிறைவாக இருக்கவேண்டாம். நீர் திறமைக்காக டிரிப் பாசனம் பயன்படுத்து; இலை நோய்களை குறைக்க அடிப்படையில் நீர் கொடுங்கள்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Apply balanced fertilizer based on soil test. A typical schedule is N-P-K split applications, avoiding excess nitrogen near harvest; organic compost improves fruit quality.",
+    "answer_hi": "मिट्टी परीक्षण के आधार पर संतुलित उर्वरक दें। सामान्यतः N-P-K को विभाजित मात्रा में दें; कटाई के पास अधिक नाइट्रोजन से बचें; जैविक खाद फल की गुणवत्ता बढ़ाती है।",
+    "answer_ta": "மண் சோதனை அடிப்படையில் சமநிலை உரம் பயன்படுத்தவும். பொதுவாக N-P-K பிரிக்கப்பட்ட முறை பயன்படுத்த வேண்டும்; அறுவடைக்கு அருகில் அதிக நைட்ரஜனைத் தவிர்க்கவும்; கம்போஸ்ட் பழத்தின் தரத்தை மேம்படுத்தும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Common pests: fruit borer, whitefly and leaf miner. Use integrated pest management: monitor, use pheromone traps, neem oil, and release beneficial insects. Remove severely infested plants.",
+    "answer_hi": "आम कीट: फल छेदक, सफेद मक्खी, पत्ती खनन करने वाले। IPM अपनाएँ: मॉनिटरिंग, फेरोमोन ट्रैप, नीम तेल और उपयोगी कीट छोड़ें।",
+    "answer_ta": "பொதுவான பூச்சிகள்: பழச்சிவப்பு, வெள்ளை ஈ, இலை சுருங்கல். ஒருங்கிணைந்த பூச்சி மேலாண்மை (IPM) பின்பற்றுங்கள்: கண்காணிப்பு, பெரோமோன் காப்புகள், நீம் எண்ணெய் மற்றும் பயனுள்ள பூச்சிகளை அறுவை விடுங்கள்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Plant brinjal in warm seasons; seedlings transplant after 6–8 weeks. Keep spacing to allow airflow and reduce fungal issues.",
+    "answer_hi": "बैंगन गर्म मौसम में लगाएँ; 6–8 सप्ताह बाद प्रत्यारोपित करें। हवा का प्रवाह सुनिश्चित करने के लिए दूरी रखें।",
+    "answer_ta": "வெஞ்ஞல் வெப்ப பருவங்களில் வளர்க்கவும்; 6–8 வாரங்கள் கழித்து மாற்று நட்டு. காற்றோட்டம் ஏற்பட இடைவெளி வைக்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Brinjal fruit borer is serious: adopt pheromone traps, timely insecticide application as per extension advice, and remove infested fruits. Crop rotation helps long-term control.",
+    "answer_hi": "बैंगन में फल छेदक समस्या: फेरोमोन ट्रैप और समय पर कीटनाशक का उपयोग करें; संक्रमित फलों को हटाएँ।",
+    "answer_ta": "வெஞ்ஞலில் பழச்சிவப்பு பிரச்சனை: பெரோமோன் காப்புகள் மற்றும் பரிந்துரைக் கூடிய நேரத்தில் பூச்சிக் கொல்லி பயன்படுத்து; பாதிக்கப்பட்ட பழங்களை அகற்று."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Okra grows well in warm weather; sow seeds in rows after the last frost and thin seedlings for proper spacing. Regular weeding and mulching improve yields.",
+    "answer_hi": "भिंडी गर्म मौसम में अच्छी होती है; अंतिम ठंढ के बाद बुवाई करें और उचित दूरी रखें।",
+    "answer_ta": "வெப்பமான வானிலையில் வெந்நீலா சிறப்பாக வளரும்; கடைசி பனியிற்சியைத் தொடர்ந்து விதைகள் விதைக்கும் மற்றும் இடைவெளியை சரி செய்ய அகற்றவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Common problems: aphids and fruit borers. Use neem spray and maintain good field hygiene. Intercropping with maize can reduce pest pressure.",
+    "answer_hi": "आम की समस्याएँ: एफिड्स और फल छेदक। नीम का छिड़काव करें और खेत की सफाई रखें।",
+    "answer_ta": "பொதுவான பிரச்சனைகள்: அஃபிட்ஸ் மற்றும் பழச்சிவப்பு. நீம் தெளிப்பு மற்றும் நன்கு பராமரிப்பு செய்யவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Plant potatoes in cool seasons with well-drained loamy soils. Use certified seed tubers, plant at correct depth, and hill soil around stems after emergence.",
+    "answer_hi": "आलू ठंडे मौसम में अच्छी पैदावार देता है; प्रमाणित बीज कंदों का उपयोग करें और सही गहराई पर लगाएँ।",
+    "answer_ta": "குளிர் பருவத்தில் சிறந்த வடிகால் கொண்ட லோமி மண்ணில் உருளைக்கிழங்கு நடுத்தலை செய்யுங்கள். சான்றுத் தகுதியான விதைகளை பயன்படுத்தவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Late blight is major: use certified seed, apply recommended fungicides at early signs, and remove infected plants. Maintain field drainage to reduce disease risk.",
+    "answer_hi": "लेट ब्लाइट गंभीर रोग है: प्रमाणित बीज और शुरुआती लक्षणों पर कवकनाशी लगाएँ।",
+    "answer_ta": "விலையீட்டுப் பூச்சி (late blight) பெரியது: சான்று விதைகள் மற்றும் நோய் ஆரம்பத்தில் பரிந்துரைக்கப்பட்ட பூச்சி மருந்துகளைப் பயன்படுத்தவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Onion prefers cool season with well-drained soils. Use transplants or direct seed depending on variety; ensure adequate nitrogen early and potassium towards bulb formation.",
+    "answer_hi": "प्याज़ ठंडे मौसम में अच्छी होती है; किस्म के अनुसार प्रत्यारोपण या सीधा बुवाई करें। नाइट्रोजन पहले और पोटाशियम बल्ब बनने के समय दें।",
+    "answer_ta": "வெள்ளரிக்காய் (இஞ்சி) குளிர் பருவத்தில் மற்றும் நல்ல வடிகால் கொண்ட மண்ணை விரும்பும். வகைப் பொருத்தமாக மாற்று விதை அல்லது நேரடி விதை பயன்படுத்தவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Onion thrips and fungal rots cause yield loss. Use tolerant varieties, avoid excessive irrigation, and apply recommended insecticides when threshold crossed.",
+    "answer_hi": "प्याज़ में थ्रिप्स और फफूंदीय रोग होते हैं। सहनशील किस्में और नियंत्रित सिंचाई अपनाएँ।",
+    "answer_ta": "வெள்ளரிக் கீறுபவர்கள் மற்றும் பூச்சிய நோய்கள் உற்பத்தி குறைவு செய்யும். சகிப்புத் திறன் உடைய வகைகள் உபயோகிக்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Sow chilli seedlings in warm season; transplant after 6–8 weeks. Ensure nutrient-rich soil and balanced NPK; harvest after color change depending on variety.",
+    "answer_hi": "मिर्च गर्म मौसम में बोएँ; 6–8 सप्ताह बाद प्रत्यारोपित करें और संतुलित NPK दें।",
+    "answer_ta": "மிளகாய் விதைகள் வெப்ப காலத்தில் விதைக்கவும்; 6–8 வாரங்களுக்கு பிறகு மாற்று நட்டு. சமநிலை NPK வழங்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Chilli suffers from viral, bacterial and thrips problems. Rogue infected plants, use virus-free seedlings, and practice crop rotation and reflective mulches to reduce aphids/thrips.",
+    "answer_hi": "मिर्च में वायरस, बैक्टीरिया और थ्रिप्स की समस्या होती है। संक्रमित पौधों को हटाएँ और वायरस-रहित पौधे उपयोग करें।",
+    "answer_ta": "மிளகாய் வைரஸ், பேக்டீரியா மற்றும் த்ரிப்ஸ் பாதிப்பு கூடும். பாதிக்கப்பட்ட செடிகளை அகற்றி, வைரஸ் இலையியல் விதைகள் பயன்படுத்தவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Mango typically flowers in late winter to early spring depending on variety and climate. Manage irrigation and nutrition before flowering to encourage heavy bloom and fruit set.",
+    "answer_hi": "आम आमतौर पर देर सर्दी से बसंत के आरम्भ में खिलता है; फूल आने से पहले सिंचाई और पोषण प्रबंधन आवश्यक है।",
+    "answer_ta": "மாம்பழம் பருவம் மற்றும் வகையைப் பொருத்து குளிர்காலம் முடிவில் அல்லது ஒன்காலத்தில் மலர்கிறது. மலர்ப்புக்கு முன் சாக்பதி மற்றும் நீர் மேலாண்மையை கவனியுங்கள்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Mango fruit fly and anthracnose cause major losses. Use sanitation, fruit bagging where possible, and apply recommended fungicides and baiting for fruit fly control.",
+    "answer_hi": "आम में फलों के कीड़े और एंन्थ्रैकनोस समस्या है। स्वच्छता और बैगिंग से बचाव करें।",
+    "answer_ta": "மாம்பழ பிளை மற்றும் ஆன்ட்ரக்னோஸ் பிரச்சினைகள் மிக பெரியது. சுத்தம் மற்றும் பழ பைகளைப் பயன்படுத்தவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Plant banana suckers of appropriate age (12–18 months). Ensure deep fertile soil, regular irrigation and mulching; remove diseased suckers to prevent spread.",
+    "answer_hi": "केले को 12–18 महीने उम्र के सुकरों से लगाएँ; गहरी उपजाऊ मिट्टी और नियमित सिंचाई अनिवार्य है।",
+    "answer_ta": "வாழைக்கு 12–18 மாத வயதுடைய சக்கரங்களை நடு. ஆழமான, உரமான மண் மற்றும் மழை நீர் தேவையாய் இருக்க வேண்டும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Banana nematodes and bunchy top virus reduce yields. Use clean planting material, nematicides where recommended, and maintain field sanitation.",
+    "answer_hi": "केले में नीमैटोड़ और बन्ची टॉप वायरस नुकसान पहुंचाते हैं। साफ सामग्री और मैदान की सफाई रखें।",
+    "answer_ta": "வாழையில் நெமாட் மற்றும் பச்சை முக நோய் விளைச்சலை குறைக்கும். தூய விதைகள் பயன்படுத்தவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Guava requires light pruning to shape trees and improve air flow; use balanced fertilizers and control fruit flies with timely harvest and sanitation.",
+    "answer_hi": "अमरूद को आकार देने के लिए हल्की छंटाई करें; संतुलित उर्वरक दें और फल मक्खी नियंत्रण रखें।",
+    "answer_ta": "கோவா மரங்களுக்கு இலகு வெட்டுதல், சரியான உரம் வழங்குதல் மற்றும் பழப்பறிப்பு மற்றும் சுத்தம் மூலம் பழ பறவை கட்டுப்பாடு செய்யவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Papaya prefers well-drained soil and regular watering; use disease-free seedlings and stake young plants. Protect from wind and high rainfall during fruiting.",
+    "answer_hi": "पपाया को अच्छी जलनिकासी वाली मिट्टी चाहिए; रोगमुक्त पौधे लगाएँ और फल आते समय तेज हवाओं से बचाएँ।",
+    "answer_ta": "பப்பாளி நன்கு வடிகால் கொண்ட மண்ணில் வளர்க்கவும்; நோயில்லா விதைகள் மற்றும் சிறிய செடிகளை உறுதிசெய்க."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Pomegranate thrives in semi-arid regions; moderate irrigation during fruit development and light pruning improve yields. Watch for fruit rot in humid conditions.",
+    "answer_hi": "अनार अर्ध-शुष्क क्षेत्रों में अच्छा लगता है; फल वृद्धि में मध्यम सिंचाई और हल्की छंटाई करें।",
+    "answer_ta": "மாதுளை எதிரொலி பகுதிகளில் சிறந்தது; பழ வளர்ச்சியின் போது ஒழுங்கான பாசனம் மற்றும் இலையச்சியைச் செய்யுங்கள்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Coconut palms need deep watering in sandy soils and regular potassium application. Provide shade for young palms and manage mealybugs and rhinoceros beetle.",
+    "answer_hi": "नारियल के पेड़ों को गहरी सिंचाई और पोटैशियम की आवश्यकता होती है। छोटे पौधों को छाया दें।",
+    "answer_ta": "தேங்காய்க்கு மணல் மண்ணில் ஆழமான நீர் மற்றும் பொட்டாசியம் தேவை. இளம் மரங்களுக்கு நிழலை வழங்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Okra grows well in warm, well-drained soils; thin seedlings and harvest frequently to encourage continuous production.",
+    "answer_hi": "भिंडी गर्म और अच्छी जलनिकासी वाली मिट्टी में अच्छी होती है; पौधों को ठीक से दूरी पर लगाएँ।",
+    "answer_ta": "செவ்வகத்தில் வெப்பமான, நன்கு வடிகால் கொண்ட மண்ணில் நல்ல விளைவு தரும்; விதைகளை அகற்றவும் மற்றும் அடிக்கடி அறுவடையிடவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Spinach prefers cool weather and regular moisture; harvest outer leaves to allow continuous regrowth, and use compost for healthy greens.",
+    "answer_hi": "पालक को ठंडा मौसम और नियमित नमी पसंद है; बाहरी पत्ते काटकर उगाएँ।",
+    "answer_ta": "பர்கலை குளிர்ச்சியான வானிலை மற்றும் சீரான ஈரப்பதம் விரும்பும்; உட்பக்க இலைகளை அறுவடை செய்யுங்கள்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Cabbage grows in cool climates; maintain soil fertility and control cabbage pests such as caterpillars with biological controls.",
+    "answer_hi": "पत्ता गोभी ठंडे मौसम में बढ़ती है; कीड़ों से जैविक नियंत्रण रखें।",
+    "answer_ta": "கேபேஜ் குளிர் பருவங்களில் வளர்க்கவும்; பூச்சிகளை கட்டுப்படுத்த உயிரியல் முறைகள் பயன்படுத்தவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Lettuce prefers cool and shaded conditions; use frequent watering and light fertilization for crisp heads.",
+    "answer_hi": "लेट्यूस ठंडे और आंशिक छाया वाले स्थानों में अच्छा उगता है; नियमित पानी दें।",
+    "answer_ta": "லெட்டுஸ் குளிர் மற்றும் நிழலான சூழலில் நன்கு வளரும்; அடிக்கடி நீர் மற்றும் சிறிய உரம் பயன்படுத்தவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Cucumber likes warm weather and trellising; provide consistent moisture and protect from powdery mildew.",
+    "answer_hi": "खीरा गर्म मौसम और ट्रीलिसिंग पसंद करता है; नियमित नमी रखें।",
+    "answer_ta": "வெள்ளரிக்காய் வெப்பத்தை விரும்பும்; மிதமான ஈரப்பதம் மற்றும் பூஞ்சை நோய்களை கவனிக்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Bottle gourd requires trellis support and regular watering; harvest fruits young for best taste.",
+    "answer_hi": "लौकी को सहारे और नियमित पानी की आवश्यकता होती है; फल छोटे अवस्था में काटें।",
+    "answer_ta": "சர்க்கரை குலுக்கை போன்ற காய்கறிகள் துரித வளர்ச்சிக்காக துருவைப் பொருத்தும்; இனிமையான தண்டு வாழைப்பழங்களை சிறிய நிலையில் அறுவடை செய்யவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Beetroot prefers deep loose soil and consistent moisture; thin seedlings and harvest when roots reach market size.",
+    "answer_hi": "चुकंदर गहरी ढीली मिट्टी और नियमित नमी पसंद करता है; पौधों को समय पर छांटें।",
+    "answer_ta": "பீட்ரூட் ஆழமான, தளர்ந்த மண்ணையும் சமமாக ஈரப்பதத்தையும் விரும்பும்; விதைகளைக் குறைக்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Guava grows in a wide range of soils; prune to maintain tree shape and harvest fruits at full color for best flavor.",
+    "answer_hi": "अमरूद विभिन्न मिट्टियों में उगता है; आकार बनाए रखने के लिए छंटाई करें।",
+    "answer_ta": "கோவா பல்வேறு மண்ண்களில் வளரும்; மரத்தை வடிவமைக்கக் கிழித்தல் செய்யவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Papaya needs well-drained soil and regular watering; protect from strong winds and use staking for tall varieties.",
+    "answer_hi": "पपाया को अच्छी जलनिकासी और नियमित पानी चाहिए; तेज हवा से बचाएँ।",
+    "answer_ta": "பப்பாளி நல்ல வடிகால் பட்ஊர்மணிக்கு மற்றும் முறையான நீர் தேவை."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Pomegranate thrives in semi-arid climates; light pruning and moderate irrigation during fruiting give good yields.",
+    "answer_hi": "अनार अर्ध-शुष्क जलवायु में अच्छा होता है; हल्की छंटाई और मध्यम सिंचाई करें।",
+    "answer_ta": "மாதுளை அரை வறண்ட பகுதிகளில் சிறந்தது; சிறிய வெட்டுதல் மற்றும் மிதமான பாசனம் பயனாகும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Grapes require trellis systems, regular pruning and good sunlight; monitor for fungal diseases in humid areas.",
+    "answer_hi": "अंगूरों को ट्रीलिसिंग और नियमित छंटाई की जरूरत होती है; आद्रता में फफूंदी का ध्यान रखें।",
+    "answer_ta": "திராட்சை மண்டபம் தேவை, வழக்கமான வெட்டுதல் மற்றும் நல்ல சூரிய ஒளி தேவை."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Apple prefers temperate climates and chilling hours; select suitable cultivars and manage pests and blossom thinning for quality fruit.",
+    "answer_hi": "सेब समशीतोष्ण जलवायु में अच्छा होता है; उपयुक्त किस्म चुनें और फूलों की छंटाई करें।",
+    "answer_ta": "ஆப்பிள் குளிர் பருவத்தில் சிறந்தது; சரியான வகைகளை தேர்ந்தெடுத்து பூச்சிகளை கட்டுப்படுத்து."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Teak requires well-drained soils and protection in early years; manage spacing for timber quality and control weeds regularly.",
+    "answer_hi": "टीक को अच्छी जलनिकासी और शुरुआती वर्षों में सुरक्षा चाहिए; अंतराल बनाए रखें.",
+    "answer_ta": "தீக் மரத்திற்கு நல்ல வடிகால் மண் மற்றும் ஆரம்ப ஆண்டு பாதுகாப்பு அவசியம்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Eucalyptus grows fast in a range of soils; manage harvest cycles and watch for excessive water uptake in shallow soils.",
+    "answer_hi": "यूकेलिप्टस तेजी से बढ़ता है; जमीनी पानी पर ध्यान दें।",
+    "answer_ta": "ஈucalyptus வேகமாக வளர்ந்து பல்வேறு மண் வகைகளில் வளரும்; அறுவடை காலங்களை சீராக்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Neem is drought tolerant and useful for integrated pest management; use leaves and cake as organic inputs.",
+    "answer_hi": "नीम सूखे सहनशील है और कीट नियंत्रण में उपयोगी है।",
+    "answer_ta": "நீம் வறட்சிக்குத் தகுதியானது மற்றும் பூச்சி மேலாண்மையில் பயனுள்ளது."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Moringa grows quickly in dry areas and is nutrient-rich; prune regularly and harvest leaves for nutrition.",
+    "answer_hi": "सहजन (मोरिंगा) सूखे इलाकों में उगता है और पौष्टिक होता है।",
+    "answer_ta": "முருங்கை உலர் பகுதிகளில் விரைவாக வளரும் மற்றும் சத்தானது."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Soil testing every 1-2 years helps determine nutrient needs and pH; follow soil-test recommendations for fertilizer application.",
+    "answer_hi": "1-2 साल में मिट्टी परीक्षण करें और रिपोर्ट के अनुसार उर्वरक दें.",
+    "answer_ta": "ஒவ்வொரு 1-2 ஆண்டிலும் மண் சோதனை மூலம் உர தேவைகள் மற்றும் pH அடையாளம் காணலாம்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Compost improves soil structure, water holding and provides slow-release nutrients; apply compost before planting or as a top dressing.",
+    "answer_hi": "खाद मिट्टी की बनावट और पानी धारण क्षमता बढ़ाती है; बोने से पहले डालें.",
+    "answer_ta": "கம்போஸ்ட் மண் அமைப்பை மேம்படுத்த உதவும் மற்றும் மெதுவாக ஊட்டச்சத்துகளை வழங்கும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Drip irrigation saves water and improves yield by supplying moisture at root zone; ideal for vegetables and orchards.",
+    "answer_hi": "ड्रिप सिंचाई पानी बचाती है और जड़ों तक सीधे पानी देती है।",
+    "answer_ta": "டிரிப் பாசனம் நீரை மிச்சப்படுத்தும் மற்றும் வேர்வளத்தில் நீர் அளிக்கும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Green manures (sesbania, sunn hemp) add organic matter and nitrogen; incorporate before sowing main crop.",
+    "answer_hi": "हरी खादें जैसे सैसबानिया और सन हेम्प जैविक पदार्थ जोड़ती हैं; मुख्य फसल से पहले मिलाएँ।",
+    "answer_ta": "பசுமை உரங்கள் நுண்ணுயிர் மற்றும் நைட்ரஜன் கொடுக்கும்; முதலில் சேர்க்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Regular pest scouting helps early detection; maintain records and act using IPM thresholds to reduce pesticide use.",
+    "answer_hi": "नियमित कीट निरीक्षण से शुरुआती पहचान होती है; IPM पर काम करें।",
+    "answer_ta": "பூச்சி கண்காணிப்பு மூலம் ஆரம்ப கட்டத்தில் கண்டறிய முடியும்; IPM அடிப்படையில் நடவடிக்கை எடுக்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Apply basal dose at transplanting and split nitrogen during tillering and panicle initiation stages; follow soil test rates.",
+    "answer_hi": "धान में बेसल और टीलरिंग के समय विभाजित नाइट्रोजन दें।",
+    "answer_ta": "நெலுக்கு முதலில் விதைப்ப સમયે அடிப்படை உரம் மற்றும் நடுவணங்களில் நைட்ரஜன் பிரித்து கொடு."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Apply N in split doses and base P and K at planting; use soil test to adjust rates.",
+    "answer_hi": "मक्का को विभाजित नाइट्रोजन और बेसल P,K दें।",
+    "answer_ta": "மக்காச்சோளுக்கு நைட்ரஜன் பிரிக்கப்பட்ட அளவில் கொடுத்து, P மற்றும் K ரோபத்தோடு சேர்க்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Post-harvest handling: dry grains to safe moisture level, clean storage, use airtight containers or silos and monitor for pests. Good handling preserves quality.",
+    "answer_hi": "फसल के बाद की हेंडलिंग: अनाज को सुरक्षित नमी पर सुखाएं और कीट निगरानी रखें।",
+    "answer_ta": "அறுவடைப்பின் பிந்தைய சிக்கல்கள்: தானியங்களைப் பாதுகாப்பு ஈரப்பதம் குறைக்கவும் மற்றும் பூச்சிமருந்து கண்காணிக்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Use certified, disease-free seeds or seedlings to ensure healthy stands and higher yield; source from trusted suppliers and follow spacing recommendations.",
+    "answer_hi": "प्रमाणित और रोगमुक्त बीज लें; विश्वसनीय आपूर्तिकर्ता से खरीदें।",
+    "answer_ta": "சான்றளிக்கப்பட்ட நோய் இல்லாத விதைகள் பயன்படுத்தவும்; நம்பகமான சப்ளையர்களிடமிருந்து வாங்கவும்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "Hello! 👋 I’m your AgriBot — ask me about crops, soil, pests, irrigation or fertilizers.",
+    "answer_hi": "नमस्ते! 👋 मैं आपका एग्रीबॉट हूँ — फसल, मिट्टी, कीट या सिंचाई के बारे में पूछें।",
+    "answer_ta": "வணக்கம்! 👋 நான் உங்கள் அக்க்ரோபாட் — பயிர்கள், மண், பூச்சிகள் பற்றிக் கேளுங்கள்."
+  },
+  {
+    "keywords": [],
+    "answer_en": "You're welcome! 😊 Glad I could help. Ask anytime.",
+    "answer_hi": "धन्यवाद! 😊 मदद कर पाकर खुशी हुई।",
+    "answer_ta": "நன்றி! 😊 உதவியதில் மகிழ்ச்சி. எப்போது வேண்டுமானாலும் கேளுங்கள்."
+  }
+]
