@@ -22,7 +22,7 @@ from utils.safety import contains_blocked, sanitize_output
 UPLOAD_FOLDER = "/tmp/uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
-app = Flask(__name__, static_folder="static", template_folder="templates")
+app = Flask(__name__, static_folder="static", template_folder="templates", instance_path="/tmp")
 app.config["SECRET_KEY"] = os.getenv("FLASK_SECRET_KEY", "super_secret_key")
 app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 
