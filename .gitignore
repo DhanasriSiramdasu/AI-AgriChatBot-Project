@@ -18,7 +18,6 @@ uploads/
 
 # Knowledge base runtime files
 *.csv
-kb.json
 
 # IDE
 .vscode/

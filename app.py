@@ -19,7 +19,7 @@ from database import init_db, db, User, ChatHistory
 from chatbot_model import process_message, load_kb, KB_PATH
 from utils.safety import contains_blocked, sanitize_output
 
-UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), "uploads")
+UPLOAD_FOLDER = "/tmp/uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 app = Flask(__name__, static_folder="static", template_folder="templates")
@@ -263,4 +263,4 @@ def admin_clear_chats():
     return redirect(url_for("admin_dashboard"))
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host="0.0.0.0", port=5000)
