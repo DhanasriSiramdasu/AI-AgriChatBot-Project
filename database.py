@@ -27,15 +27,35 @@ class ChatHistory(db.Model):
     feedback = db.Column(db.String(20), nullable=True)
 
 def init_db(app):
-    db_uri = os.getenv("DATABASE_URL", "sqlite:///agrobot.db")
+
+    # Use external DB if provided, otherwise use Vercel writable /tmp
+    db_uri = os.getenv("DATABASE_URL")
+
+    if not db_uri:
+        db_path = "/tmp/agrobot.db"
+        db_uri = "sqlite:///" + db_path
+
     app.config["SQLALCHEMY_DATABASE_URI"] = db_uri
     app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+
     db.init_app(app)
+
     with app.app_context():
         db.create_all()
+
         admin_email = os.getenv("ADMIN_EMAIL", "admin@agrobot.com")
         admin_password = os.getenv("ADMIN_PASSWORD", "Admin@123")
+
         if not User.query.filter_by(email=admin_email).first():
-            admin = User(email=admin_email, password=generate_password_hash(admin_password), name="Administrator", role="admin", preferred_language="en")
-            db.session.add(admin); db.session.commit()
+            admin = User(
+                email=admin_email,
+                password=generate_password_hash(admin_password),
+                name="Administrator",
+                role="admin",
+                preferred_language="en"
+            )
+
+            db.session.add(admin)
+            db.session.commit()
+
             print("Created default admin:", admin_email)
