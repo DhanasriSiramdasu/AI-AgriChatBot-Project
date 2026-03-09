@@ -1,17 +1,23 @@
-import os, json, time
-from flask import Flask, render_template, request, redirect, url_for, flash, jsonify, send_from_directory
-from flask_login import LoginManager, login_user, logout_user, login_required, current_user
+import os
+import json
+import time
+
+from flask import (
+    Flask, render_template, request, redirect,
+    url_for, flash, jsonify, send_from_directory, session
+)
+
+from flask_login import (
+    LoginManager, login_user, logout_user,
+    login_required, current_user
+)
+
 from werkzeug.security import check_password_hash, generate_password_hash
 from werkzeug.utils import secure_filename
+
 from database import init_db, db, User, ChatHistory
 from chatbot_model import process_message, load_kb, KB_PATH
 from utils.safety import contains_blocked, sanitize_output
-from flask import Flask, render_template, request, redirect, url_for, flash, jsonify, send_file,session
-from flask import Flask, render_template, request, redirect, url_for, flash, session, jsonify, send_file
-from flask_login import current_user, login_required
-from flask import Flask, render_template, request, redirect, url_for, flash, jsonify, send_file, session
-from flask_login import LoginManager, login_user, logout_user, login_required, current_user
-from database import db, User, ChatHistory
 
 UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), "uploads")
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
@@ -257,4 +263,4 @@ def admin_clear_chats():
     return redirect(url_for("admin_dashboard"))
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0")
+    app.run()
